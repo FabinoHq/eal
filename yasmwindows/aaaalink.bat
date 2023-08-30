@@ -1,0 +1,1 @@
+call vsyasm link main.obj

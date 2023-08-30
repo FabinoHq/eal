@@ -1,0 +1,2 @@
+#Check usb
+fdisk -l
